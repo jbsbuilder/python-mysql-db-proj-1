@@ -1,4 +1,4 @@
-devops-project-1
+python-mysql-db-proj-1
 
 All creit goes to https://github.com/rahulwagh.
 
